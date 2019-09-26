@@ -12,7 +12,6 @@ First line consists of a single integer, T, denoting the number of test cases.
 First line of each test case consists of two space separated integers denoting N and K.
 Second line of each test case consists of N space separated integers denoting the array
 A.
-
 # Output:
 For each test case, print the minimum time in which all array elements will become
 greater than or equal to K. Print a new line after each test case.
@@ -25,11 +24,9 @@ results. The TAs have released the marks of students in the form of an array, wh
 represents the marks of the ith student.
 Since you are a curious kid, you want to find all the marks that are not smaller than those
 on its right side in the array.
-
 # Input Format
 The first line of input will contain a single integer n denoting the number of students.
 The next line will contain n space separated integers representing the marks of students.
-
 # Output Format
 Output all the integers separated in the array from left to right that are not smaller than
 those on its right side.
@@ -38,6 +35,23 @@ those on its right side.
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
 
+# 3. Frustrated coders
+There are N frustrated coders standing in a circle with a gun in their hands. Each coder
+has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
+him. One more thing, all the guns have only 1 bullet. This roulette can take place in
+any random order. Fortunately, you have the time stone (haaan wo harre wala) and
+you can see all possible outcomes of this scenario. Find the outcome where the total
+sum of the remaining coder's skill is minimum. Print this sum.
+
+# Input Format
+The first line contains N the no. of coders
+The next line contains N elements where the ith element is theS[ i ] of ith coder.
+# Output Format
+Print a single line containing the minimum sum.
+
+# Constraints
+1<= N <= 1000000
+1<=S[ i ]<=1000
 # 4. Pink Floyd and Happiness
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs
 from his favorite band, Pink Floyd.
@@ -52,7 +66,6 @@ Print whether Pink will be sad or happy after the delivery of the records.
 # Input Format
 N - Number of records followed by
 N numbers- order of records.
-
 # Output Format
 Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
 
