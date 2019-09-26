@@ -6,7 +6,6 @@ bored of it and decided to update value of its element. In one second he can inc
 value of each array element by 1. He wants each array element's value to become greater
 than or equal to K. Please help Micro to find out the minimum amount of time it will take,
 for him to do so.
-
 # <h4>Input:</h4>
 First line consists of a single integer, T, denoting the number of test cases.
 First line of each test case consists of two space separated integers denoting N and K.
@@ -42,7 +41,6 @@ him. One more thing, all the guns have only 1 bullet. This roulette can take pla
 any random order. Fortunately, you have the time stone (haaan wo harre wala) and
 you can see all possible outcomes of this scenario. Find the outcome where the total
 sum of the remaining coder's skill is minimum. Print this sum.
-
 # Input Format
 The first line contains N the no. of coders
 The next line contains N elements where the ith element is theS[ i ] of ith coder.
@@ -62,7 +60,6 @@ Pink is delivered his records in some given order, he can either add the record 
 Playlist in the delivered order or put some on another table. After being put on the
 table only the topmost record can be added to the playlist at any time.
 Print whether Pink will be sad or happy after the delivery of the records.
-
 # Input Format
 N - Number of records followed by
 N numbers- order of records.
