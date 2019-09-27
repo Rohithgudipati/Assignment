@@ -14,7 +14,20 @@ A.
 # <h4>Output:</h4>
 For each test case, print the minimum time in which all array elements will become
 greater than or equal to K. Print a new line after each test case.
+Constraints:
+1<=T<=5
+1<=N<=10^10
+1<=A[i],K<=10^6
 
+# <h4>SAMPLE INPUT</h4>
+2<br>
+3 4<br>
+1 2 5<br>
+3 2<br>
+2 5 5<br>
+# <h4>SAMPLE OUTPUT</h4>
+3<br>
+0<br>
 
 # <h3>2. Hamiltonian and Lagrangian</h3>
 Students have become secret admirers of SEGP. They find the course exciting and the
@@ -120,4 +133,3 @@ input.
 100 1 <br>
 19 12 17 <br>
 77 18 <br>
-
