@@ -18,17 +18,21 @@ Constraints:
 1<=T<=5
 1<=N<=10^10
 1<=A[i],K<=10^6
-
-# <h4>SAMPLE INPUT</h4>
-2<br>
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+<tr>
+  <td>2<br>
 3 4<br>
 1 2 5<br>
 3 2<br>
-2 5 5<br>
-# <h4>SAMPLE OUTPUT</h4>
-3<br>
-0
-
+    2 5 5</td>
+  <td>3<br>
+    0</td>
+  </tr>
+  </table>
 # <h3>2. Hamiltonian and Lagrangian</h3>
 Students have become secret admirers of SEGP. They find the course exciting and the
 professors amusing. After a superb Mid Semester examination, it’s now time for the
