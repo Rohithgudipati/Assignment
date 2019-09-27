@@ -50,7 +50,7 @@ Print a single line containing the minimum sum.
 # <h4>Constraints</h4>
 1<= N <= 1000000
 1<=S[ i ]<=1000
-# 4. Pink Floyd and Happiness
+# <h3>4. Pink Floyd and Happiness</h3>
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs
 from his favorite band, Pink Floyd.
 There are N records and Pink will be happy if he listens to them in the ascending
@@ -60,12 +60,12 @@ Pink is delivered his records in some given order, he can either add the record 
 Playlist in the delivered order or put some on another table. After being put on the
 table only the topmost record can be added to the playlist at any time.
 Print whether Pink will be sad or happy after the delivery of the records.
-# Input Format
+# <h4>Input Format</h4>
 N - Number of records followed by
 N numbers- order of records.
-# Output Format
+# <h4>Output Format</h4>
 Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
 
-# Constraints
+# </h4>Constraints</h4>
 1<=N<=10^5
 The array consists of 1-N distinct numbers.
