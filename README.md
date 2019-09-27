@@ -160,17 +160,21 @@ after deleting K friends.
 # <h4>NOTE:</h4>
 Order of friends after deleting exactly K friends should be maintained as given in
 input.
-
-# <h3>SAMPLE INPUT</h3>
-3<br>
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>3<br>
 3 1<br>
 3 100 1<br>
 5 2<br>
 19 12 3 4 17<br>
 5 3<br>
-23 45 11 77 18<br>
-
-# <h3>SAMPLE OUTPUT</h3>
-100 1 <br>
+     23 45 11 77 18</td>
+   <td>100 1 <br>
 19 12 17 <br>
-77 18 
+    77 18 </td>
+ </tr>
+ </table>
