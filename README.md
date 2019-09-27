@@ -69,6 +69,19 @@ Print a single line containing the minimum sum.
 # <h4>Constraints</h4>
 1<= N <= 1000000
 1<=S[ i ]<=1000
+
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>6<br>
+      1 7 2 2 4 4</td>
+    <td>11</td>
+  </tr>
+  </table>
+
 # <h3>4. Pink Floyd and Happiness</h3>
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs
 from his favorite band, Pink Floyd.
