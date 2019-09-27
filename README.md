@@ -47,6 +47,12 @@ those on its right side.
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
 
+# <h4>SAMPLE INPUT<h4>
+6<br>
+16 17 4 3 5 2
+  # <h4>SAMPLE OUTPUT</h4>
+17 5 2<br>
+
 # <h3>3. Frustrated coders</h3>
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder
 has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
