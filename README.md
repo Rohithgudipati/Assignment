@@ -27,7 +27,7 @@ Constraints:
 2 5 5<br>
 # <h4>SAMPLE OUTPUT</h4>
 3<br>
-0<br>
+0
 
 # <h3>2. Hamiltonian and Lagrangian</h3>
 Students have become secret admirers of SEGP. They find the course exciting and the
@@ -132,4 +132,4 @@ input.
 # <h3>SAMPLE OUTPUT</h3>
 100 1 <br>
 19 12 17 <br>
-77 18 <br>
+77 18 
