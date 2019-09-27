@@ -108,13 +108,13 @@ Order of friends after deleting exactly K friends should be maintained as given 
 input.
 
 # <h3>SAMPLE INPUT</h3>
-<br>3</br>
-<br>3 1</br>
-<br>3 100 1</br>
-<br>5 2</br>
-<br>19 12 3 4 17</br>
-<br>5 3</br>
-<br>23 45 11 77 18</br>
+3<br>
+3 1<br>
+3 100 1<br>
+5 2<br>
+19 12 3 4 17<br>
+5 3<br>
+23 45 11 77 18<br>
 
 # <h3>SAMPLE OUTPUT</h3>
 100 1 <br>
