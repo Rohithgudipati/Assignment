@@ -106,3 +106,20 @@ after deleting K friends.
 # <h4>NOTE:</h4>
 Order of friends after deleting exactly K friends should be maintained as given in
 input.
+
+# <h2>SAMPLE INPUT</h2>
+
+3
+3 1
+3 100 1
+5 2
+19 12 3 4 17
+5 3
+23 45 11 77 18
+
+# <h2>SAMPLE OUTPUT</h2>
+
+100 1 
+19 12 17 
+77 18 
+
