@@ -112,6 +112,17 @@ Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
 # <h4>Constraints</h4>
 1<=N<=10^5
 The array consists of 1-N distinct numbers.
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>5<br>
+     1 2 4 3 5</td>
+   <td>Happy</td>
+ </tr>
+ </table>
 
 # <h3>6. Remove Friends</h3>
 After getting her PhD, Christie has become a celebrity at her university, and her
