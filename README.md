@@ -33,6 +33,7 @@ Constraints:
     0</td>
   </tr>
   </table>
+  
 # <h3>2. Hamiltonian and Lagrangian</h3>
 Students have become secret admirers of SEGP. They find the course exciting and the
 professors amusing. After a superb Mid Semester examination, it’s now time for the
@@ -50,13 +51,19 @@ those on its right side.
 # <h4>Constraints</h4>
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
-
-# <h4>SAMPLE INPUT<h4>
-6<br>
-16 17 4 3 5 2
-  # <h4>SAMPLE OUTPUT</h4>
-17 5 2<br>
-
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+   <tr>
+    <td>6<br>
+     16 17 4 3 5 2</td>
+    <td>17 5 2</td>
+ </tr>
+ </table>
+ 
 # <h3>3. Frustrated coders</h3>
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder
 has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
