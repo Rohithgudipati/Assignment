@@ -212,7 +212,7 @@ Print the height of the created Binary Search Tree.
  </tr>
  </table>
 
-9. Yatin plays PUBG
+# <h3>9. Yatin plays PUBG</h3>
 Yatin is playing PUBG and he has reached a place with a large staircase in front of him.
 And there is an enemy at each landing of the staircase.
 The staircase is analogous to a binary tree with each of its nodes as a landing of the
@@ -229,7 +229,7 @@ a binary search tree.
 [ Note: Players do not change their position after one player has died, i.e. the leftmost
 node remains the same even after player on that node has died. Or we can say that
 the nodes are not removed after the player on that node has died.]
-Input Format
+# <h4>Input Format</h4>
 The first line of input contains a number t denoting the number of test cases.
 The first line of each test case contains n, the number of nodes in the tree.
 The second line of each test case contains n space separated integers (unique) ai
@@ -237,10 +237,10 @@ denoting the value at each node of the BST.
 
 12
 
-Output Format
+# <h4>Output Format</h4>
 Print the answer for each test case on a new line.
 
-Constraints
+# <h4>Constraints</h4>
 1 <= t <= 20
 1 <= n <= 1000
 1 <= ai <= 1000000000
