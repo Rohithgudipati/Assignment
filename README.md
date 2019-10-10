@@ -217,7 +217,7 @@ Yatin is playing PUBG and he has reached a place with a large staircase in front
 And there is an enemy at each landing of the staircase.
 The staircase is analogous to a binary tree with each of its nodes as a landing of the
 staircase and each of its edges as stairs from one landing to another.
-<img src="a.png" alt="pubg" width="500" height="600">
+<img src="D:\sagar\a.png" alt="pubg" width="500" height="600">
 
 Yatin wants to kill the maximum possible number of enemies. He can kill every person
 he can see from his position with his suppressed sniper gun. But he can see only the
