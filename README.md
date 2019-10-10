@@ -215,16 +215,19 @@ Print the height of the created Binary Search Tree.
 # <h3>9. Yatin plays PUBG</h3>
 Yatin is playing PUBG and he has reached a place with a large staircase in front of him.
 And there is an enemy at each landing of the staircase.<br>
+<br>
 The staircase is analogous to a binary tree with each of its nodes as a landing of the
 staircase and each of its edges as stairs from one landing to another.<br>
 <img src="https://he-s3.s3.amazonaws.com/media/uploads/9817cde1-d9a3-4551-9ecd-8ac1e50acd2a.png" alt="pubg" />
 Yatin wants to kill the maximum possible number of enemies. He can kill every person
 he can see from his position with his suppressed sniper gun. But he can see only the
 persons at the leftmost standing at each level and cannot see the rest.<br>
+<br>
 Before starting shooting them, he wants to know how many persons he can kill. He is
 busy keeping an eye on the enemies. So he wants you to find out the maximum
 number of people he can kill from that location by providing you with the analogous
 a binary search tree.<br>
+<br>
 [ Note: Players do not change their position after one player has died, i.e. the leftmost
 node remains the same even after player on that node has died. Or we can say that
 the nodes are not removed after the player on that node has died.]
@@ -238,6 +241,20 @@ denoting the value at each node of the BST.
 Print the answer for each test case on a new line.
 
 # <h4>Constraints</h4>
-1 <= t <= 20
-1 <= n <= 1000
+1 <= t <= 20<br>
+1 <= n <= 1000<br>
 1 <= ai <= 1000000000
+
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>1<br>
+     9<br>
+     8 3 10 1 6 14 4 7 13</td>
+   <td>4</td>
+ </tr>
+ </table>
+ 
