@@ -198,4 +198,16 @@ the elements of array.
 Print the height of the created Binary Search Tree.
 # <h4>Constraints</h4>
 1<=N<=10^3<br>
-1<=A[i]<=10^6
+1<=A[i]<=10^6<br>
+
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>4<br>
+     2 1 3 4</td
+   <td>3</td>
+ </tr>
+ </table>
