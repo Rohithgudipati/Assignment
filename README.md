@@ -207,7 +207,7 @@ Print the height of the created Binary Search Tree.
 </tr>
   <tr>
     <td>4<br>
-     2 1 3 4</td
+     2 1 3 4</td>
    <td>3</td>
  </tr>
  </table>
