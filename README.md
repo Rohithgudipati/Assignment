@@ -178,3 +178,24 @@ input.
     77 18 </td>
  </tr>
  </table>
+
+# <h3>8. Monk watching fight</h3>
+Once Monk was watching a fight between an array and a tree, of being better. Tree
+got frustrated and converted that array into a Binary Search Tree by inserting the
+elements as nodes in BST, processing elements in the given order in the array. Now
+Monk wants to know the height of the created Binary Search Tree.
+Help Monk for the same.
+# <h4>Note:</h4>
+1) In Binary Search Tree, the left sub-tree contains only nodes with values less than
+or equal to the parent node; the right sub-tree contains only nodes with values
+greater than the parent node.
+2) Binary Search Tree with one node, has height equal to 1.
+ # <h4>Input Format</h4>
+The first line will consist of 1 integer N, denoting the number of elements in the array.
+In next line, there will be N space separated integers, A[i], where 1 ≤ I ≤ N, denoting
+the elements of array.
+# <h4>Output Format</h4>
+Print the height of the created Binary Search Tree.
+# <h4>Constraints</h4>
+1<=N<=10^3
+1<=A[i]<=10^6
