@@ -214,18 +214,17 @@ Print the height of the created Binary Search Tree.
 
 # <h3>9. Yatin plays PUBG</h3>
 Yatin is playing PUBG and he has reached a place with a large staircase in front of him.
-And there is an enemy at each landing of the staircase.
+And there is an enemy at each landing of the staircase.<br>
 The staircase is analogous to a binary tree with each of its nodes as a landing of the
-staircase and each of its edges as stairs from one landing to another.
+staircase and each of its edges as stairs from one landing to another.<br>
 <img src="https://he-s3.s3.amazonaws.com/media/uploads/9817cde1-d9a3-4551-9ecd-8ac1e50acd2a.png" alt="pubg" />
-
 Yatin wants to kill the maximum possible number of enemies. He can kill every person
 he can see from his position with his suppressed sniper gun. But he can see only the
-persons at the leftmost standing at each level and cannot see the rest.
+persons at the leftmost standing at each level and cannot see the rest.<br>
 Before starting shooting them, he wants to know how many persons he can kill. He is
 busy keeping an eye on the enemies. So he wants you to find out the maximum
 number of people he can kill from that location by providing you with the analogous
-a binary search tree.
+a binary search tree.<br>
 [ Note: Players do not change their position after one player has died, i.e. the leftmost
 node remains the same even after player on that node has died. Or we can say that
 the nodes are not removed after the player on that node has died.]
@@ -234,8 +233,6 @@ The first line of input contains a number t denoting the number of test cases.
 The first line of each test case contains n, the number of nodes in the tree.
 The second line of each test case contains n space separated integers (unique) ai
 denoting the value at each node of the BST.
-
-12
 
 # <h4>Output Format</h4>
 Print the answer for each test case on a new line.
