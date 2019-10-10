@@ -197,5 +197,5 @@ the elements of array.
 # <h4>Output Format</h4>
 Print the height of the created Binary Search Tree.
 # <h4>Constraints</h4>
-1<=N<=10^3
+1<=N<=10^3<br>
 1<=A[i]<=10^6
