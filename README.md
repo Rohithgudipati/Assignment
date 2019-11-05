@@ -315,3 +315,35 @@ won by this ghost until the end of the ith day of the competition.
  </tr>
  </table>
  
+# <h3>7. Largest cycle in a tree</h3>
+You are given a tree of N nodes and N-1 edges. Now you need to select two nodes a
+and b in the tree such that the cycle that will be formed after adding an edge between
+the two nodes a and b, its length should be maximum. If there are more than one
+possible answer, you can output any of them.
+# <h4>Input Format</h4>
+The first line contains an integer as N input. Next N-1 lines contain a pair of integers
+(a, b) that denote there is an edge between the two nodes a and b in the tree.
+# <h4>Output Format</h4>
+In the output, you need to print two integers separated by space which denote the
+nodes between which you can add the edge so as to maximize the length of the cycle
+in the tree.
+
+# <h4>Constraints</h4>
+1<=N<=10^5
+
+<table style="width:100%">
+ <tr>
+   <th>SAMPLE INPUT</th>
+   <th>SAMPLE OUTPUT</th>
+</tr>
+  <tr>
+    <td>7<br>
+     1 2<br>
+     1 3<br>
+     2 4<br>
+     2 5<br>
+     3 6<br>
+     3 7</td>
+   <td>4 6</td>
+ </tr>
+ </table>
